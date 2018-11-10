@@ -1,1 +1,6 @@
 12121212121
+
+
+
+让git记住帐号密码
+git config --global credential.helper store
